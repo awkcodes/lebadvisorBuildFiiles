@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9f011d12.css",
+    "main.js": "./static/js/main.1e8cbf1d.js",
+    "static/media/beirut3.jpg": "./static/media/beirut3.61b2892379c8bfecfd9e.jpg",
+    "static/media/featured.jpg": "./static/media/featured.cb1cdb38cfeb66b8a54d.jpg",
+    "static/media/banner.jpg": "./static/media/banner.02ff9a3fd24b07b2d462.jpg",
+    "index.html": "./index.html",
+    "main.9f011d12.css.map": "./static/css/main.9f011d12.css.map",
+    "main.1e8cbf1d.js.map": "./static/js/main.1e8cbf1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f011d12.css",
+    "static/js/main.1e8cbf1d.js"
+  ]
+}
